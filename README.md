@@ -28,30 +28,30 @@ Durante o primeiro semestre de 2022, em colaboração com a FATEC, concebemos e 
 <br>
   <h4 align="center"><br><a href="https://www.youtube.com/watch?v=vAR8DCsnbfE">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
-    <img src="/readme/2022-1/gif_localizacao_pagweb.gif" width="60%" />
+    <img src="/img/01/gif_localizacao_pagweb.gif" width="60%" />
 </p>
 
 <br>
   <h4 align="center"><br><a href="https://youtu.be/MpbO26x4V6s">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
-    <img src="/readme/2022-1/cursos-botao.gif" width="60%" />
+    <img src="/img/01/cursos-botao.gif" width="60%" />
 </p>
 
 <br>
   <h4 align="center"><br><a href="https://youtu.be/GsF3vHnyO84">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
-    <img src="/readme/2022-1/graficos_parte1.gif" width="60%" />
+    <img src="/img/01/graficos_parte1.gif" width="60%" />
 </p>
 
 <br>
   <p align="center">
-    <img src="/readme/2022-1/graficos_parte2.gif" width="60%" />
+    <img src="/img/01/graficos_parte2.gif" width="60%" />
 </p>
 
 <br>
   <h4 align="center"><br><a href="https://youtu.be/iMzZy33cA94">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
-    <img src="/readme/2022-1/contatos.gif" width="60%" />
+    <img src="/img/01/contatos.gif" width="60%" />
 </p>
 <br>
 
