@@ -2,6 +2,7 @@
 
 ## Introdução
 <img src='/img/01/gustavo.webp' width="15%" />
+
 Desde cedo, sempre me interessei por tecnologia, mergulhando no mundo do conhecimento desde a adolescência. Aos 12 anos, fiz um curso de programação de jogos, iniciando uma jornada que me levaria a explorar ainda mais esse campo fascinante.
 
 Aos 15, decidi seguir adiante e me matriculei no curso técnico de Análise e Desenvolvimento de Sistemas (ADS) na ETEC em São José dos Campos. Esse foi apenas o primeiro passo em uma trajetória de aprendizado contínuo. Para aprofundar meu conhecimento, busquei o Tecnólogo em ADS na FATEC, onde pude expandir ainda mais meu domínio na área.
