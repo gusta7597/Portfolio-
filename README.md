@@ -78,7 +78,7 @@ Para mais informações:
 #### Contribuições Pessoais
 No decorrer desse projeto, eu estava na equipe como desenvolvedor, ajudando meus colegas sempre que necessário. Mas também entrei em cena em alguns pontos específicos.
 
-
+Um desses momentos foi na página de vagas, onde fiz boa parte do código. Além disso, dei uma mãozinha no design do site, criando o logo e outros elementos visuais. Acho que deu uma boa contribuição para deixar tudo com uma cara legal.
 #### Hard Skills
 * HTML5 - Possuo habilidade para estruturar semanticamente páginas web de forma autônoma, garantindo uma organização lógica e acessível dos elementos.
 
