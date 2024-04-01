@@ -1,5 +1,7 @@
-## Introdução
+# Gustavo Marques de Lima
 
+## Introdução
+<img src='/img/01/gustavo.webp' width="15%" />
 Desde cedo, sempre me interessei por tecnologia, mergulhando no mundo do conhecimento desde a adolescência. Aos 12 anos, fiz um curso de programação de jogos, iniciando uma jornada que me levaria a explorar ainda mais esse campo fascinante.
 
 Aos 15, decidi seguir adiante e me matriculei no curso técnico de Análise e Desenvolvimento de Sistemas (ADS) na ETEC em São José dos Campos. Esse foi apenas o primeiro passo em uma trajetória de aprendizado contínuo. Para aprofundar meu conhecimento, busquei o Tecnólogo em ADS na FATEC, onde pude expandir ainda mais meu domínio na área.
@@ -14,6 +16,8 @@ Vejo esse estágio como apenas o início da minha jornada como programador. Este
 - 📧 Email : gustavomarquesdelima6@gmail.com
 
 ## Principais Conhecimentos
+* HTML5
+* CSS3
 * Python
 * React
 * Node
@@ -55,6 +59,26 @@ Durante o primeiro semestre de 2022, em colaboração com a FATEC, concebemos e 
 </p>
 <br>
 
+Para mais informações:
+[GIT](https://github.com/gusta7597/API-FATEC)
+
+#### Tecnologias Utilizadas
+* HTML5
+* CSS3
+* Java Script
+* Bootstrap
+* Python
+* Flask
+* SQL
+* SQLite
+* AWS
+* Github
+* Figma
+
+#### Contribuições Pessoais
+No decorrer desse projeto, eu estava na equipe como desenvolvedor, ajudando meus colegas sempre que necessário. Mas também entrei em cena em alguns pontos específicos.
+
+
 #### Hard Skills
 * HTML5 - Possuo habilidade para estruturar semanticamente páginas web de forma autônoma, garantindo uma organização lógica e acessível dos elementos.
 
@@ -67,3 +91,18 @@ Durante o primeiro semestre de 2022, em colaboração com a FATEC, concebemos e 
 #### Soft Skills
 * Comunicação:
 Para facilitar o acompanhamento do desenvolvimento das atividades, exercitei minhas habilidades de comunicação ao participar de reuniões semanais com a equipe. Estas reuniões eram essenciais para garantir a sincronização de esforços e a avaliação do progresso das tarefas.
+
+### Em 2022-2
+Mesmo formato
+
+### Em 2023-1
+Mesmo formato
+
+### Em 2023-2
+Mesmo formato
+
+### Em 2024-1
+Mesmo formato
+
+### Em 2024-2
+Mesmo formato
