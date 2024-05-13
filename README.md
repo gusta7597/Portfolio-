@@ -93,7 +93,57 @@ Um desses momentos foi na página de vagas, onde fiz boa parte do código. Além
 Para facilitar o acompanhamento do desenvolvimento das atividades, exercitei minhas habilidades de comunicação ao participar de reuniões semanais com a equipe. Estas reuniões eram essenciais para garantir a sincronização de esforços e a avaliação do progresso das tarefas.
 
 ### Em 2022-2
-Mesmo formato
+Durante o segundo semestre de 2022, estabelecemos uma colaboração estratégica com a renomada Trackcash, uma empresa especializada em soluções de conciliação financeira direcionadas a e-commerces, marketplaces e estabelecimentos físicos.
+
+Neste contexto, foi incumbida a nós a missão de conceber um software desktop personalizado, destinado a disponibilizar aos clientes da Trackcash informações cruciais sobre suas atividades de vendas. O propósito primordial era garantir uma experiência de usuário fluida e intuitiva, entregando dados de forma acessível através de planilhas e painéis de controle, com o intuito de otimizar a elaboração de estratégias financeiras e identificar possíveis obstáculos ao término de cada ciclo de vendas.
+
+Um ponto crucial nesse empreendimento residia na arquitetura do sistema de autenticação e registro. Isso se dava pela necessidade de incluir detalhes específicos durante o processo de inscrição, como o nome do canal de vendas (por exemplo: Mercado Livre, Americanas), o tipo de canal (seja Marketplace ou plataforma de pagamentos) e o método de autenticação utilizado (seja através de usuário/senha ou Token). Para garantir o atendimento eficaz de todos esses requisitos, dedicamos especial atenção à modelagem e desenvolvimento do banco de dados, assegurando que todas as exigências da Trackcash fossem plenamente satisfeitas.
+
+É crucial ressaltar que, dentro deste projeto, os clientes são também tratados como canais, um aspecto que permeia toda a estruturação e funcionalidade do software desenvolvido.
+
+
+
+<br>
+  <h4 align="center"><br><a href="https://www.youtube.com/watch?v=Ayp1KyIrV_s">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/img/02/Config_canais_token.gif" width="60%" />
+</p>
+<br>
+
+
+<br>
+  <h4 align="center"><br><a href="https://youtu.be/sJAp-t41iLQ">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/img/02/tela-configuracao-canais.gif" width="60%" />
+</p>
+<br>
+
+Para mais informações:
+[GIT](https://github.com/gusta7597/API-FATEC-2-SEM)
+
+#### Tecnologias Utilizadas
+* Java - Utilizada como linguagem base para criação dos scripts do projeto.
+* JavaFX - Ferramenta empregada para o design e desenvolvimento das interfaces gráficas do usuário.
+* SQL - Utilizada como linguagem para interação com o banco de dados do projeto.
+* MYSQL - Banco de dados escolhido como o sistema de gerenciamento de dados para o projeto.
+* Github - Utilizado para a publicação e documentação do projeto, facilitando o versionamento e a colaboração entre os membros da equipe.
+
+#### Contribuições Pessoais
+Durante o desenvolvimento deste projeto, desempenhei um papel ativo como membro da equipe de desenvolvimento. Minha principal área de atuação concentrou-se na criação das interfaces gráficas utilizando o SceneBuilder, uma ferramenta de design e layout fornecida pela Oracle para o desenvolvimento de interfaces de usuário em JavaFX.
+
+Especificamente, dediquei-me à configuração personalizada de cada usuário. Essas configurações abrangiam as conexões desejadas pelo usuário em nossa aplicação, seja com marketplaces ou plataformas de pagamento. Minha responsabilidade envolvia a criação, visualização e edição de cada configuração individualmente criada pelo usuário, empregando scripts em Java e seguindo princípios de orientação a objetos.
+
+Após três sprints dedicados à parte de configurações, na quarta e última etapa, concentrei-me na implementação da funcionalidade de edição de usuário. Isso permitia que os usuários modificassem as informações que haviam inserido anteriormente em nossa aplicação, proporcionando uma experiência mais dinâmica e personalizada.
+
+#### Hard Skills
+* Java - Tenho autonomia para desenvolver o back-end utilizando a linguagem Java e os conceitos de Programação Orientada a Objetos (POO).
+* JavaFX - Possuo habilidades para desenvolver interfaces gráficas de usuário (GUIs) utilizando JavaFX.
+* SQL - Sou capaz de realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) utilizando SQL.
+
+#### Soft Skills
+
+* Comunicação - Como membro da equipe de desenvolvimento, aprimorei minhas habilidades de comunicação ao interagir com colegas mais experientes e ao compartilhar minhas ideias durante as reuniões diárias.
+* Organização - Pratiquei minhas habilidades de organização durante o desenvolvimento do projeto, ao planejar e priorizar minhas tarefas de acordo com os requisitos e prazos estabelecidos.
 
 ### Em 2023-1
 Mesmo formato
