@@ -77,7 +77,7 @@ Para mais informações:
 * Figma
 
 #### Contribuições Pessoais
-No decorrer desse projeto, eu estava na equipe como desenvolvedor, ajudando meus colegas sempre que necessário. Mas também entrei em cena em alguns pontos específicos.
+No decorrer desse projeto, eu estava na equipe como PO, conversei com o cliente sobre requisições e etc, porém acabei ajudando meus colegas sempre que necessário. Mas também entrei em cena em alguns pontos específicos.
 
 Um desses momentos foi na página de vagas, onde fiz boa parte do código. Além disso, dei uma mãozinha no design do site, criando o logo e outros elementos visuais. Acho que deu uma boa contribuição para deixar tudo com uma cara legal.
 #### Hard Skills
@@ -142,16 +142,103 @@ Após três sprints dedicados à parte de configurações, na quarta e última e
 * SQL - Sou capaz de realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) utilizando SQL.
 
 #### Soft Skills
-
 * Comunicação - Como membro da equipe de desenvolvimento, aprimorei minhas habilidades de comunicação ao interagir com colegas mais experientes e ao compartilhar minhas ideias durante as reuniões diárias.
 * Organização - Pratiquei minhas habilidades de organização durante o desenvolvimento do projeto, ao planejar e priorizar minhas tarefas de acordo com os requisitos e prazos estabelecidos.
 
 ### Em 2023-1
-Mesmo formato
+No primeiro semestre de 2023, estabelecemos uma parceria com a empresa Visiona. Como parte dessa colaboração, fomos incumbidos de conceber e implementar um sistema de gerenciamento de usuário, utilizando uma abordagem baseada em microserviços.
+
+O objetivo central deste projeto foi desenvolver uma aplicação web escalável, fundamentada em microsserviços e equipada com um dashboard intuitivo. Essa plataforma foi criada para fornecer aos usuários funcionalidades essenciais, incluindo a criação, visualização, edição e exclusão de perfis de usuário.
+
+Decidimos utilizar bancos de dados relacionais para assegurar a consistência e a confiabilidade dos dados manipulados pela aplicação.
+
+<br>
+  <h4 align="center"><br><a href="https://www.youtube.com/watch?v=wU2duyaZ-yg">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/img/03/login_dashboard.gif" width="60%" />
+</p>
+<br>
+
+Para mais informações:
+[GIT](https://github.com/gusta7597/API-FATEC-3-SEM/tree/Development?tab=readme-ov-file)
+
+#### Tecnologias Utilizadas
+* React -  Utilizado para a criação do frontend da aplicação, desenvolvendo interfaces de usuário dinâmicas e responsivas.
+* NodeJS - Responsável pela criação do backend da aplicação, permitindo a construção de rotas eficientes.
+* Github - Plataforma de hospedagem de código-fonte e colaboração, utilizada para gerenciar o versionamento do projeto, facilitando o trabalho em equipe e a integração contínua.
+* Figma - Ferramenta utilizada para criar wireframes, protótipos e designs de interfaces de usuário, colaborando na visualização e comunicação das ideias de design.
+* SQL - Utilizada como linguagem para interação com o banco de dados do projeto.
+* Postgres - Banco de dados escolhido como o sistema de gerenciamento de dados para o projeto.
+
+
+#### Contribuições Pessoais
+Na primeira fase do projeto, concentrei-me principalmente no backend, pois nunca havia trabalhado com APIs antes. Essa imersão foi fundamental para me familiarizar com essa tecnologia e me ajudou a resolver diversos desafios que surgiram ao longo do desenvolvimento. Essa experiência acabou por se tornar uma base sólida para o meu trabalho nas próximas etapas do projeto.
+
+Na segunda fase, assumi a responsabilidade pela documentação do projeto. Tanto o repositório no GitHub quanto a própria documentação foram elaborados por mim. Esta tarefa não só me permitiu consolidar meu entendimento do projeto como um todo, mas também contribuiu para a transparência e colaboração da equipe.
+
+Por fim, na terceira fase do projeto, dediquei-me à manutenção de alguns aspectos desenvolvidos pelos meus colegas de equipe. Essa atividade proporcionou uma oportunidade valiosa para aprender com o código dos outros, além de aprimorar minhas habilidades de depuração e resolução de problemas.
+
+#### Hard Skills
+* React - Tenho autonomia para desenvolver o frontend de forma componentizada.
+* NodeJS - Possuo habilidade para desenvolver o backend utilizando NodeJS.
+* Figma - Possuo habilidade para criar wireframes e protótipos de projetos utilizando a ferramenta Figma.
+* SQL - Tenho autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados, além de capacidade para modelar um banco de dados.
+
+#### Soft Skills
+* Comunicação - Como membro da equipe de desenvolvimento, aprimorei minhas habilidades de comunicação ao interagir não apenas com colegas mais experientes, mas também ao colaborar com membros de diferentes áreas. Participei ativamente das reuniões diárias, contribuindo com minhas ideias e feedback para o progresso do projeto.
+* Organização - Pratiquei e aprimorei minhas habilidades de organização ao longo do desenvolvimento do projeto. Isso envolveu o planejamento cuidadoso e a priorização de tarefas de acordo com os requisitos e prazos estabelecidos, garantindo uma execução eficiente e dentro do cronograma estabelecido.
+* Resiliência - Durante o desenvolvimento do código, exercitei minha habilidade de resiliência ao enfrentar diversos desafios e dificuldades. Mantive-me persistente e focado, superando cada obstáculo encontrado ao longo do caminho. Essa capacidade de adaptar-me e continuar avançando diante das adversidades foi fundamental para o sucesso do projeto.
 
 ### Em 2023-2
-Mesmo formato
+No segundo semestre de 2023, embarcamos em uma colaboração com a Greenneat, uma plataforma dedicada à promoção da economia circular, com um enfoque específico na coleta e reciclagem de óleo de cozinha.
 
+Nossa equipe se empenhou em desenvolver uma plataforma online que possibilitasse aos parceiros da Greenneat realizar a coleta de óleo de estabelecimentos e revendê-lo à plataforma, recebendo créditos em troca. Esses créditos foram concebidos para serem utilizados na aquisição de saneantes fabricados pela Greenneat e disponíveis em seu site. Além disso, proporcionamos aos parceiros acesso a um painel personalizado, permitindo-lhes acompanhar suas transações de forma transparente. Por outro lado, os estabelecimentos foram capacitados a monitorar suas compras e saldos de crédito de maneira eficiente.
+
+Como administradores da plataforma, fornecemos um dashboard abrangente, oferecendo informações relevantes, como o desempenho do descarte, a participação dos parceiros e estabelecimentos na economia circular, entre outros dados cruciais. Este dashboard foi projetado para fornecer uma visão holística e simplificada do progresso e impacto da iniciativa.
+
+<br>
+  <h4 align="center"><br><a href="https://youtu.be/thHnFg1cLQk">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/img/04/cadastro.gif" width="65%" />
+  </p>
+<br>
+  <h4 align="center"><br><a href="https://youtu.be/jLK-PpFPoq0">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/img/04/estabelecimento.gif" width="65%" />
+  </p>
+<br>
+
+Para mais informações:
+[GIT](https://github.com/gusta7597/API-FATEC-4-SEM)
+
+#### Tecnologias Utilizadas
+* React -  Utilizado para a criação do frontend da aplicação, desenvolvendo interfaces de usuário dinâmicas e responsivas.
+* NodeJS - Responsável pela criação do backend da aplicação, permitindo a construção de rotas eficientes.
+* SQL - Utilizada como linguagem para interação com o banco de dados do projeto.
+* SQLite - Banco de dados escolhido como o sistema de gerenciamento de dados para o projeto.
+* Github - Plataforma de hospedagem de código-fonte e colaboração, utilizada para gerenciar o versionamento do projeto, facilitando o trabalho em equipe e a integração contínua.
+* Figma - Ferramenta utilizada para criar wireframes, protótipos e designs de interfaces de usuário, colaborando na visualização e comunicação das ideias de design.
+
+#### Contribuições Pessoais
+Nesse projeto, desempenhei o papel de desenvolvedor, contribuindo em diferentes fases e funcionalidades essenciais. Iniciei trabalhando no desenvolvimento do sistema de cadastro de usuários, permitindo que cada usuário inserisse suas informações básicas, como CPF e outros detalhes pertinentes.
+
+Durante a segunda sprint, concentrei meus esforços na implementação da visualização das transações e saldos individuais de cada usuário. Desenvolvi uma tabela dinâmica que exibia as transações recentes de cada usuário, atualizando automaticamente seus saldos conforme as transações eram realizadas. Além disso, aproveitei a oportunidade para introduzir novas funcionalidades e abordar eventuais bugs encontrados durante a interação com a tabela.
+
+Na terceira sprint, foquei em aprimorar ainda mais a experiência do usuário, adicionando novas features e realizando correções para garantir o bom funcionamento do sistema. Dedicando-me à resolução de bugs e à implementação de melhorias, assegurei que a tabela de transações oferecesse uma experiência fluida e livre de problemas para os usuários.
+
+Por fim, na última sprint, implementei restrições de acesso com base nos tipos de usuário. Isso garantia que cada usuário só pudesse acessar telas e funcionalidades relevantes ao seu tipo, reforçando a segurança e a privacidade dentro da plataforma. Essa medida contribuiu significativamente para a organização e controle do sistema, proporcionando uma experiência de uso mais personalizada e segura para todos os usuários.
+#### Hard Skills
+* React - Possuo habilidade e autonomia para desenvolver o frontend de forma componentizada utilizando React.
+* NodeJS - Tenho autonomia para desenvolver o backend de aplicações utilizando NodeJS.
+* Figma - Possuo habilidade para criar wireframes e protótipos de projetos utilizando a ferramenta Figma.
+* SQL - Possuo autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados, bem como capacidade para modelar bancos de dados.
+
+#### Soft Skills
+* Comunicação - Desenvolvi minhas habilidades de comunicação ao colaborar com colegas de diferentes áreas, além de interagir com membros mais experientes da equipe. Participei ativamente das reuniões diárias, compartilhando ideias e fornecendo feedback para impulsionar o progresso do projeto.
+
+* Organização - Aprimorei minhas habilidades de organização ao longo do desenvolvimento do projeto, realizando um planejamento detalhado e priorizando tarefas de acordo com os requisitos e prazos estabelecidos. Isso assegurou uma execução eficiente e dentro do cronograma planejado.
+
+* Resiliência - Durante o desenvolvimento do código, enfrentei diversos desafios e dificuldades, exercitando minha habilidade de resiliência. Mantive-me persistente e focado, superando cada obstáculo encontrado ao longo do caminho. Essa capacidade de adaptação e perseverança foi fundamental para o sucesso do projeto.
 ### Em 2024-1
 Mesmo formato
 
