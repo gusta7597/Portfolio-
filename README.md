@@ -64,22 +64,23 @@ Para mais informações:
 [GIT](https://github.com/gusta7597/API-FATEC)
 
 #### Tecnologias Utilizadas
-* HTML5
-* CSS3
-* Java Script
-* Bootstrap
-* Python
-* Flask
-* SQL
-* SQLite
-* AWS
-* Github
-* Figma
+* HTML5 - Utilizado para estruturar semanticamente o conteúdo das páginas do site.
+* CSS3 - Utilizado para estilizar e criar layouts responsivos, aprimorando a aparência visual do site.
+* Java Script - Implementado para adicionar interatividade e dinamismo às páginas, como validações de formulário e animações.
+* Bootstrap - Aplicado para acelerar o desenvolvimento de interfaces responsivas e compatíveis com diferentes dispositivos.
+* Python - Aplicado na parte de raspagem de dados para adquirir varias vagas
+* Flask - Framework utilizado para desenvolver a aplicação web, gerenciando rotas/templates.
+* SQL - Utilizado para gerenciar e consultar dados armazenados no banco de dados relacional
+* SQLite - Banco de dados escolhido para armazenar dados de forma leve e eficiente durante o desenvolvimento.
+* AWS - Implementado para hospedar a aplicação. 
+* Github - Usado para versionamento de código, colaboração entre equipe e gerenciamento do histórico de alterações do projeto.
+* Figma - Ferramenta utilizada para design de interface e prototipação.
 
 #### Contribuições Pessoais
-No decorrer desse projeto, eu estava na equipe como PO, conversei com o cliente sobre requisições e etc, porém acabei ajudando meus colegas sempre que necessário. Mas também entrei em cena em alguns pontos específicos.
+No decorrer deste projeto, atuei na função de Product Owner (PO), sendo responsável por interagir com o cliente para entender e documentar requisitos, entre outras atividades. Além disso, sempre que necessário, ofereci suporte aos meus colegas de equipe em diversas tarefas.
 
-Um desses momentos foi na página de vagas, onde fiz boa parte do código. Além disso, dei uma mãozinha no design do site, criando o logo e outros elementos visuais. Acho que deu uma boa contribuição para deixar tudo com uma cara legal.
+Contribuí de maneira significativa em momentos específicos, como na página de vagas, onde desenvolvi uma parte substancial do código. Utilizei HTML para estruturar o conteúdo da página, criando elementos como listas de vagas, descrições e formulários de candidatura. Para a apresentação visual, apliquei CSS, definindo estilos que incluíam layouts responsivos, cores, tipografia e espaçamentos, garantindo uma interface amigável e funcional.
+
 #### Hard Skills
 * HTML5 - Possuo habilidade para estruturar semanticamente páginas web de forma autônoma, garantindo uma organização lógica e acessível dos elementos.
 
@@ -234,13 +235,62 @@ Por fim, na última sprint, implementei restrições de acesso com base nos tipo
 * SQL - Possuo autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados, bem como capacidade para modelar bancos de dados.
 
 #### Soft Skills
-* Comunicação - Desenvolvi minhas habilidades de comunicação ao colaborar com colegas de diferentes áreas, além de interagir com membros mais experientes da equipe. Participei ativamente das reuniões diárias, compartilhando ideias e fornecendo feedback para impulsionar o progresso do projeto.
+* Comunicação - Estive ativo na parte de comunicação com a equipe para resolver certos problemas no projeto, já que a base do projeto em sí era muito parecido com o anterior. A partir disto foi mais descobrir se iriamos mudar algo e se iriamos o que seria, após isto a comunicação se baseou em falar o que estava pronto e o que faltava.
 
-* Organização - Aprimorei minhas habilidades de organização ao longo do desenvolvimento do projeto, realizando um planejamento detalhado e priorizando tarefas de acordo com os requisitos e prazos estabelecidos. Isso assegurou uma execução eficiente e dentro do cronograma planejado.
+* Organização - Sinto que melhorei minhas habilidades de organização já que no mesmo periodo acabei arranjando um estagio, ou seja, acabei aplicando coisas que aprendi no serviço e aplicando na faculdade e vice e versa. Alguma dessas coisas foi a padronização do codigo e padronização de commit.
 
-* Resiliência - Durante o desenvolvimento do código, enfrentei diversos desafios e dificuldades, exercitando minha habilidade de resiliência. Mantive-me persistente e focado, superando cada obstáculo encontrado ao longo do caminho. Essa capacidade de adaptação e perseverança foi fundamental para o sucesso do projeto.
 ### Em 2024-1
-Mesmo formato
+No primeiro semestre de 2024, uma parceria foi estabelecida com a Oracle Academy com o propósito de desenvolver um aplicativo dedicado ao gerenciamento dos parceiros corporativos.
+
+Este aplicativo tem como objetivo principal unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios. Suas funcionalidades incluem o cadastro e atualização de parceiros com informações detalhadas sobre sua expertise, bem como o acompanhamento do desenvolvimento de conhecimento dos parceiros para remuneração. Além disso, oferece a extração de relatórios relevantes sobre o desempenho dos parceiros, facilitando a análise e tomada de decisões estratégicas.
+
+Para garantir uma gestão eficiente, o app conta com um módulo administrativo que permite o cadastro, edição e exclusão de consultores de alianças, responsáveis por cadastrar e atualizar as informações sobre os parceiros. Essas funcionalidades visam unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios, ao mesmo tempo em que aprimoram a eficiência operacional da organização.
+
+<br>
+  <h4 align="center"><br><a href="https://youtube.com/shorts/jaJvUHtxoDg">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/img/05/adicionarConsultorAliancas.gif" width="65%" />
+  </p>
+<br>
+  <h4 align="center"><br><a href="https://youtube.com/shorts/k-mWljAZT0U">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/img/05/editarConsultorAliancas.gif" width="65%" />
+  </p>
+<br>
+<br>
+  <h4 align="center"><br><a href="https://youtube.com/shorts/QfVdLAiZrwI">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/img/05/loginAdministrador.gif" width="65%" />
+  </p>
+<br>
+
+Para mais informações:
+[GIT](https://github.com/henriqFerreira/API-FATEC-5-SEM)
+
+#### Tecnologias Utilizadas
+* React Native - Utilizado para desenvolvimento do frontend da aplicação, que era direcionado a dispositivos moveis.
+* NodeJS - Responsável pela criação do backend da aplicação, permitindo a construção de rotas eficientes.
+* MongoDB - Banco não relacional utilizado para armazenar os dados da aplicação
+* Github - Plataforma de hospedagem de código-fonte e colaboração, utilizada para gerenciar o versionamento do projeto, facilitando o trabalho em equipe e a integração contínua.
+* Figma - Ferramenta utilizada para criar wireframes, protótipos e designs de interfaces de usuário, colaborando na visualização e comunicação das ideias de design.
+
+#### Contribuições Pessoais
+No decorrer deste projeto, retornei ao papel de desenvolvedor, contribuindo ativamente. Em particular, optamos por uma abordagem onde cada membro da equipe assumiu a responsabilidade por uma tarefa completa, abrangendo tanto o desenvolvimento do frontend quanto do backend. Este modelo foi adotado ao longo de quatro sprints.
+
+Inicialmente, assumi a responsabilidade pela implementação da funcionalidade "Esqueci a senha". Essa funcionalidade permitia que a aplicação enviasse um e-mail ao usuário registrado caso este esquecesse sua senha.
+
+Na segunda etapa, utilizei habilidades adquiridas durante meu estágio para realizar a raspagem de dados em Python das Tracks e expertises oferecidas pela Oracle.
+
+Na terceira fase, concentrei-me em aprimorar funcionalidades, permitindo que os usuários da aplicação visualizassem gráficos para obter insights sobre o comportamento de determinados clientes da Oracle.
+
+Por fim, no último sprint, dediquei-me à correção de bugs e à melhoria geral das funcionalidades da aplicação.
+#### Hard Skills
+* React Native - Consigo desenvolver o frontend de forma independente usando o framework React Native.
+* NodeJS - Tenho habilidade para desenvolver o backend utilizando NodeJS sem supervisão.
+* MongoDB - Consigo realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados não relacionais de forma autônoma.
+
+#### Soft Skills
+* Comunicação - Acredito que tenha sido muito importante ao me comunicar com a equipe sobre como seria feito o projeto, já que teriamos outra abordagem com o projeto, mas acredito tenha sido de extrema importancia opinar sobre tal abordagem e estar ativamente conectado com o grupo.
 
 ### Em 2024-2
 Mesmo formato
