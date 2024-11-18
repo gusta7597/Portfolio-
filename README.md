@@ -324,7 +324,7 @@ Então firmamos parceria com a Dom Rock para desenvolver um chatbot que otimiza 
 
 
 Para mais informações:
-[GIT]([https://github.com/CamilaRedondo/API-FATEC-6-SEM])
+[GIT](https://github.com/CamilaRedondo/API-FATEC-6-SEM)
 
 #### Tecnologias Utilizadas
 * Python - Responsavel pelo tratamento de dados e logica do RAG.
