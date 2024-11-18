@@ -28,13 +28,23 @@ Vejo esse estágio como apenas o início da minha jornada como programador. Este
 ## Meus Projetos
 
 ### Em 2022-1
-Durante o primeiro semestre de 2022, em colaboração com a FATEC, concebemos e implementamos um website dedicado à divulgação de oportunidades de emprego no campo da Tecnologia da Informação (T.I). Este portal oferecia aos usuários acesso a uma ampla gama de vagas disponibilizadas por empresas de todo o território nacional, fornecendo descrições detalhadas de cada posição. Adicionalmente, os usuários tinham à disposição cursos de aprimoramento profissional na área de tecnologia, ampliando suas habilidades e competências.
+#### Professores: Jean Carlos, Antonio Egydio.
+Durante o primeiro semestre de 2022, em colaboração com a FATEC, concebemos e implementamos um website dedicado à divulgação de oportunidades de emprego no campo da Tecnologia da Informação (T.I).
+
+O problema era que os professores gostariam de centralizar em um lugar as vagas de diversos sites para que ficasse mais facil para os alunos encontrarem.
+
+A solução encontrada foi um portal. Este portal oferecia aos usuários acesso a uma ampla gama de vagas disponibilizadas por empresas de todo o território nacional, fornecendo descrições detalhadas de cada posição. Adicionalmente, os usuários tinham à disposição cursos de aprimoramento profissional na área de tecnologia, ampliando suas habilidades e competências.
 
 <br>
   <h4 align="center"><br><a href="https://www.youtube.com/watch?v=vAR8DCsnbfE">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/img/01/gif_localizacao_pagweb.gif" width="60%" />
 </p>
+
+
+### Mais videos:
+
+<details>
 
 <br>
   <h4 align="center"><br><a href="https://youtu.be/MpbO26x4V6s">Youtube (Qualidade melhor)</a></h4>
@@ -59,7 +69,7 @@ Durante o primeiro semestre de 2022, em colaboração com a FATEC, concebemos e 
     <img src="/img/01/contatos.gif" width="60%" />
 </p>
 <br>
-
+</details>
 Para mais informações:
 [GIT](https://github.com/gusta7597/API-FATEC)
 
@@ -82,13 +92,13 @@ No decorrer deste projeto, atuei na função de Product Owner (PO), sendo respon
 Contribuí de maneira significativa em momentos específicos, como na página de vagas, onde desenvolvi uma parte substancial do código. Utilizei HTML para estruturar o conteúdo da página, criando elementos como listas de vagas, descrições e formulários de candidatura. Para a apresentação visual, apliquei CSS, definindo estilos que incluíam layouts responsivos, cores, tipografia e espaçamentos, garantindo uma interface amigável e funcional.
 
 #### Hard Skills
-* HTML5 - Possuo habilidade para estruturar semanticamente páginas web de forma autônoma, garantindo uma organização lógica e acessível dos elementos.
+* HTML5 - Avançado - Possuo habilidade para estruturar semanticamente páginas web de forma autônoma, garantindo uma organização lógica e acessível dos elementos.
 
-* CSS3 - Sou capaz de estilizar páginas web de maneira independente, utilizando CSS3 para criar layouts atraentes e responsivos que complementam a estrutura HTML.
+* CSS3 - Avançado - Sou capaz de estilizar páginas web de maneira independente, utilizando CSS3 para criar layouts atraentes e responsivos que complementam a estrutura HTML.
 
-* Python - Adquiri conhecimentos em raspagem de dados utilizando Python, além de aprender a organizar e manipular esses dados de forma eficiente para diversas finalidades.
+* Python - Avançado - Adquiri conhecimentos em raspagem de dados utilizando Python, além de aprender a organizar e manipular esses dados de forma eficiente para diversas finalidades.
 
-* SQL - Possuo autonomia na criação de operações CRUD (Create, Read, Update, Delete) em sistemas de banco de dados, utilizando SQL para manipular e gerenciar dados de forma eficaz.
+* SQL - Avançado - Possuo autonomia na criação de operações CRUD (Create, Read, Update, Delete) em sistemas de banco de dados, utilizando SQL para manipular e gerenciar dados de forma eficaz.
 
 #### Soft Skills
 * Comunicação:
@@ -96,6 +106,8 @@ Para facilitar o acompanhamento do desenvolvimento das atividades, exercitei min
 
 ### Em 2022-2
 Durante o segundo semestre de 2022, estabelecemos uma colaboração estratégica com a renomada Trackcash, uma empresa especializada em soluções de conciliação financeira direcionadas a e-commerces, marketplaces e estabelecimentos físicos.
+
+O problema relatado era que para organizar os clientes a trackcash utilizava planilhas para controlar as vendas dos clientes, e então por conta disso veio o desejo de automatizar esta parte. 
 
 Neste contexto, foi incumbida a nós a missão de conceber um software desktop personalizado, destinado a disponibilizar aos clientes da Trackcash informações cruciais sobre suas atividades de vendas. O propósito primordial era garantir uma experiência de usuário fluida e intuitiva, entregando dados de forma acessível através de planilhas e painéis de controle, com o intuito de otimizar a elaboração de estratégias financeiras e identificar possíveis obstáculos ao término de cada ciclo de vendas.
 
@@ -112,13 +124,16 @@ Um ponto crucial nesse empreendimento residia na arquitetura do sistema de auten
 </p>
 <br>
 
+### Mais Videos:
 
+<details>
 <br>
   <h4 align="center"><br><a href="https://youtu.be/sJAp-t41iLQ">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/img/02/tela-configuracao-canais.gif" width="60%" />
 </p>
 <br>
+</details>
 
 Para mais informações:
 [GIT](https://github.com/gusta7597/API-FATEC-2-SEM)
@@ -138,18 +153,20 @@ Especificamente, dediquei-me à configuração personalizada de cada usuário. E
 Após três sprints dedicados à parte de configurações, na quarta e última etapa, concentrei-me na implementação da funcionalidade de edição de usuário. Isso permitia que os usuários modificassem as informações que haviam inserido anteriormente em nossa aplicação, proporcionando uma experiência mais dinâmica e personalizada.
 
 #### Hard Skills
-* Java - Tenho autonomia para desenvolver o back-end utilizando a linguagem Java e os conceitos de Programação Orientada a Objetos (POO).
-* JavaFX - Possuo habilidades para desenvolver interfaces gráficas de usuário (GUIs) utilizando JavaFX.
-* SQL - Sou capaz de realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) utilizando SQL.
+* Java - Intermediario - Tenho autonomia para desenvolver o back-end utilizando a linguagem Java e os conceitos de Programação Orientada a Objetos (POO).
+* JavaFX - Básico - Possuo habilidades para desenvolver interfaces gráficas de usuário (GUIs) utilizando JavaFX.
+* SQL - Avançado - Sou capaz de realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) utilizando SQL.
 
 #### Soft Skills
 * Comunicação - Como membro da equipe de desenvolvimento, aprimorei minhas habilidades de comunicação ao interagir com colegas mais experientes e ao compartilhar minhas ideias durante as reuniões diárias.
 * Organização - Pratiquei minhas habilidades de organização durante o desenvolvimento do projeto, ao planejar e priorizar minhas tarefas de acordo com os requisitos e prazos estabelecidos.
 
 ### Em 2023-1
-No primeiro semestre de 2023, estabelecemos uma parceria com a empresa Visiona. Como parte dessa colaboração, fomos incumbidos de conceber e implementar um sistema de gerenciamento de usuário, utilizando uma abordagem baseada em microserviços.
+No primeiro semestre de 2023, estabelecemos uma parceria com a empresa Visiona uma empresa cujo objetivo é a integração de sistemas espaciais e à prestação de serviços baseados em satélites. 
 
-O objetivo central deste projeto foi desenvolver uma aplicação web escalável, fundamentada em microsserviços e equipada com um dashboard intuitivo. Essa plataforma foi criada para fornecer aos usuários funcionalidades essenciais, incluindo a criação, visualização, edição e exclusão de perfis de usuário.
+O problema relatado pela visiona era que a propria empresa não havia tanto controle sobre usuarios e gostaria de automatizar essa parte com um site na web.
+
+Como parte dessa colaboração, fomos incumbidos de conceber e implementar um sistema de gerenciamento de usuário, utilizando uma abordagem baseada em microserviços. O objetivo central deste projeto foi desenvolver uma aplicação web escalável, fundamentada em microsserviços e equipada com um dashboard intuitivo. Essa plataforma foi criada para fornecer aos usuários funcionalidades essenciais, incluindo a criação, visualização, edição e exclusão de perfis de usuário.
 
 Decidimos utilizar bancos de dados relacionais para assegurar a consistência e a confiabilidade dos dados manipulados pela aplicação.
 
@@ -180,18 +197,18 @@ Na segunda fase, assumi a responsabilidade pela documentação do projeto. Tanto
 Por fim, na terceira fase do projeto, dediquei-me à manutenção de alguns aspectos desenvolvidos pelos meus colegas de equipe. Essa atividade proporcionou uma oportunidade valiosa para aprender com o código dos outros, além de aprimorar minhas habilidades de depuração e resolução de problemas.
 
 #### Hard Skills
-* React - Tenho autonomia para desenvolver o frontend de forma componentizada.
-* NodeJS - Possuo habilidade para desenvolver o backend utilizando NodeJS.
-* Figma - Possuo habilidade para criar wireframes e protótipos de projetos utilizando a ferramenta Figma.
-* SQL - Tenho autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados, além de capacidade para modelar um banco de dados.
+* React - Avançado - Tenho autonomia para desenvolver o frontend de forma componentizada.
+* NodeJS - Avançado - Possuo habilidade para desenvolver o backend utilizando NodeJS.
+* Figma - Avançado - Possuo habilidade para criar wireframes e protótipos de projetos utilizando a ferramenta Figma.
+* SQL - Avançado - Tenho autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados, além de capacidade para modelar um banco de dados.
 
 #### Soft Skills
-* Comunicação - Como membro da equipe de desenvolvimento, aprimorei minhas habilidades de comunicação ao interagir não apenas com colegas mais experientes, mas também ao colaborar com membros de diferentes áreas. Participei ativamente das reuniões diárias, contribuindo com minhas ideias e feedback para o progresso do projeto.
 * Organização - Pratiquei e aprimorei minhas habilidades de organização ao longo do desenvolvimento do projeto. Isso envolveu o planejamento cuidadoso e a priorização de tarefas de acordo com os requisitos e prazos estabelecidos, garantindo uma execução eficiente e dentro do cronograma estabelecido.
-* Resiliência - Durante o desenvolvimento do código, exercitei minha habilidade de resiliência ao enfrentar diversos desafios e dificuldades. Mantive-me persistente e focado, superando cada obstáculo encontrado ao longo do caminho. Essa capacidade de adaptar-me e continuar avançando diante das adversidades foi fundamental para o sucesso do projeto.
 
 ### Em 2023-2
-No segundo semestre de 2023, embarcamos em uma colaboração com a Greenneat, uma plataforma dedicada à promoção da economia circular, com um enfoque específico na coleta e reciclagem de óleo de cozinha.
+No segundo semestre de 2023, embarcamos em uma colaboração com a Greenneat, a empresa é especializada na reutilização de óleos e no descarte consciente do mesmo.
+
+Segundo a greenneat ela havia nessecidade de obter um site cujo nele mesmo fosse criado uma logica de créditos e controle de parceiros. Com base nessa ideia foi criada uma plataforma dedicada à promoção da economia circular, com um enfoque específico na coleta e reciclagem de óleo de cozinha.
 
 Nossa equipe se empenhou em desenvolver uma plataforma online que possibilitasse aos parceiros da Greenneat realizar a coleta de óleo de estabelecimentos e revendê-lo à plataforma, recebendo créditos em troca. Esses créditos foram concebidos para serem utilizados na aquisição de saneantes fabricados pela Greenneat e disponíveis em seu site. Além disso, proporcionamos aos parceiros acesso a um painel personalizado, permitindo-lhes acompanhar suas transações de forma transparente. Por outro lado, os estabelecimentos foram capacitados a monitorar suas compras e saldos de crédito de maneira eficiente.
 
@@ -203,11 +220,15 @@ Como administradores da plataforma, fornecemos um dashboard abrangente, oferecen
     <img src="/img/04/cadastro.gif" width="65%" />
   </p>
 <br>
+
+### Mais videos:
+<details>
   <h4 align="center"><br><a href="https://youtu.be/jLK-PpFPoq0">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/img/04/estabelecimento.gif" width="65%" />
   </p>
 <br>
+</details>
 
 Para mais informações:
 [GIT](https://github.com/gusta7597/API-FATEC-4-SEM)
@@ -229,18 +250,18 @@ Na terceira sprint, foquei em aprimorar ainda mais a experiência do usuário, a
 
 Por fim, na última sprint, implementei restrições de acesso com base nos tipos de usuário. Isso garantia que cada usuário só pudesse acessar telas e funcionalidades relevantes ao seu tipo, reforçando a segurança e a privacidade dentro da plataforma. Essa medida contribuiu significativamente para a organização e controle do sistema, proporcionando uma experiência de uso mais personalizada e segura para todos os usuários.
 #### Hard Skills
-* React - Possuo habilidade e autonomia para desenvolver o frontend de forma componentizada utilizando React.
-* NodeJS - Tenho autonomia para desenvolver o backend de aplicações utilizando NodeJS.
-* Figma - Possuo habilidade para criar wireframes e protótipos de projetos utilizando a ferramenta Figma.
-* SQL - Possuo autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados, bem como capacidade para modelar bancos de dados.
+* React - Avançado - Possuo habilidade e autonomia para desenvolver o frontend de forma componentizada utilizando React.
+* NodeJS - Avançado - Tenho autonomia para desenvolver o backend de aplicações utilizando NodeJS.
+* Figma - Avançado - Possuo habilidade para criar wireframes e protótipos de projetos utilizando a ferramenta Figma.
+* SQL - Avançado - Possuo autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados, bem como capacidade para modelar bancos de dados.
 
 #### Soft Skills
-* Comunicação - Estive ativo na parte de comunicação com a equipe para resolver certos problemas no projeto, já que a base do projeto em sí era muito parecido com o anterior. A partir disto foi mais descobrir se iriamos mudar algo e se iriamos o que seria, após isto a comunicação se baseou em falar o que estava pronto e o que faltava.
-
 * Organização - Sinto que melhorei minhas habilidades de organização já que no mesmo periodo acabei arranjando um estagio, ou seja, acabei aplicando coisas que aprendi no serviço e aplicando na faculdade e vice e versa. Alguma dessas coisas foi a padronização do codigo e padronização de commit.
 
 ### Em 2024-1
-No primeiro semestre de 2024, uma parceria foi estabelecida com a Oracle Academy com o propósito de desenvolver um aplicativo dedicado ao gerenciamento dos parceiros corporativos.
+No primeiro semestre de 2024, uma parceria foi estabelecida com a Oracle Academy, a mesma empresa tem como objetivo promover educação, habilidades, inovação, e diversidade e inclusão em tecnologia.
+
+A oracle necessitava de uma plataforma mobile para que fosse possivel gerir o conhecimento de parceiros e poder ver quais parceiros tem a possibilidade de subir nos parametros de parceiro. Com base nisso o projeto teve o propósito de desenvolver um aplicativo dedicado ao gerenciamento dos parceiros corporativos.
 
 Este aplicativo tem como objetivo principal unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios. Suas funcionalidades incluem o cadastro e atualização de parceiros com informações detalhadas sobre sua expertise, bem como o acompanhamento do desenvolvimento de conhecimento dos parceiros para remuneração. Além disso, oferece a extração de relatórios relevantes sobre o desempenho dos parceiros, facilitando a análise e tomada de decisões estratégicas.
 
@@ -252,6 +273,9 @@ Para garantir uma gestão eficiente, o app conta com um módulo administrativo q
     <img src="/img/05/adicionarConsultorAliancas.gif" width="65%" />
   </p>
 <br>
+
+### Mais videos:
+<details>
   <h4 align="center"><br><a href="https://youtube.com/shorts/k-mWljAZT0U">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/img/05/editarConsultorAliancas.gif" width="65%" />
@@ -263,6 +287,7 @@ Para garantir uma gestão eficiente, o app conta com um módulo administrativo q
     <img src="/img/05/loginAdministrador.gif" width="65%" />
   </p>
 <br>
+</details>
 
 Para mais informações:
 [GIT](https://github.com/henriqFerreira/API-FATEC-5-SEM)
@@ -285,12 +310,41 @@ Na terceira fase, concentrei-me em aprimorar funcionalidades, permitindo que os 
 
 Por fim, no último sprint, dediquei-me à correção de bugs e à melhoria geral das funcionalidades da aplicação.
 #### Hard Skills
-* React Native - Consigo desenvolver o frontend de forma independente usando o framework React Native.
-* NodeJS - Tenho habilidade para desenvolver o backend utilizando NodeJS sem supervisão.
-* MongoDB - Consigo realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados não relacionais de forma autônoma.
+* React Native - Avançado - Consigo desenvolver o frontend de forma independente usando o framework React Native.
+* NodeJS - Avançado - Tenho habilidade para desenvolver o backend utilizando NodeJS sem supervisão.
+* MongoDB - Avançado - Consigo realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados não relacionais de forma autônoma.
 
 #### Soft Skills
 * Comunicação - Acredito que tenha sido muito importante ao me comunicar com a equipe sobre como seria feito o projeto, já que teriamos outra abordagem com o projeto, mas acredito tenha sido de extrema importancia opinar sobre tal abordagem e estar ativamente conectado com o grupo.
 
 ### Em 2024-2
-Mesmo formato
+O setor de marketing enfrenta desafios ao processar grandes volumes de dados, dificultando a análise de feedbacks e informações dispersas, como comentários e dados de vendas. A falta de ferramentas para identificar tendências e integrar dados compromete decisões rápidas e informadas, enquanto a análise manual é demorada e sujeita a erros.
+
+Então firmamos parceria com a Dom Rock para desenvolver um chatbot que otimiza análises, personaliza campanhas e identifica oportunidades de crescimento. Utilizando a arquitetura RAG, o modelo acessa dados vetorizados para gerar respostas mais precisas e relevantes.
+
+
+Para mais informações:
+[GIT]([https://github.com/CamilaRedondo/API-FATEC-6-SEM])
+
+#### Tecnologias Utilizadas
+* Python - Responsavel pelo tratamento de dados e logica do RAG.
+* ChromaDB - Banco de dados de vetor.
+* LangChain - Gerencia o fluxo de dados e a integração entre a base vetorial e o LLM na arquitetura RAG.
+* LLM (LLaMA) - Realiza a geração de texto com base nas consultas enriquecidas pela base vetorial.
+* Figma - Ferramenta de design utilizada para criar a interface e prototipar a experiência do usuário.
+* Vue.js - Framework para desenvolver a interface de usuário interativa do chatbot.
+
+#### Contribuições Pessoais
+Atuei como P.O então trabalhei diretamente com o cliente para definir requisitos essenciais, elaborar histórias de usuário detalhadas e estabelecer critérios de aceitação claros. Essa interação contínua garantiu uma compreensão precisa das necessidades do cliente, convertendo-as em funcionalidades eficazes no sistema. Também gerenciei a criação e manutenção dos backlogs do produto e das sprints, priorizando tarefas com base no valor de negócio e na urgência, assegurando entregas constantes de valor.
+
+Acabei não participando nos códigos por conta de minha posição, porém acabei estudando o código para que fosse possivel explicar para o cliente o que acabou sendo realizado e como cada mudança afetava o projeto.
+
+#### Hard Skills
+* Product Owner - Intermediario -  Experiência em colaborar diretamente com o cliente para definir requisitos, histórias de usuário e critérios de aceitação, garantindo uma compreensão clara das necessidades do negócio e a entrega eficaz de funcionalidades.
+* Backlog Management - Intermediario - Capacidade de criar e gerenciar backlogs de produto e sprints, priorizando tarefas conforme o valor de negócio e a urgência, assegurando entregas contínuas e alinhadas às expectativas do cliente.
+* Python - Avançado - Possuo conhecimento em manipulação de dados e lógica para arquitetura RAG (Retrieval-Augmented Generation).
+* Figma - Avançado - Competência no design de interfaces e prototipagem de experiências do usuário.
+* Vue.js - Básico - Capacidade de desenvolver interfaces de usuário interativas e dinâmicas.
+
+#### Soft Skills
+* Comunicação - Comunicação clara dos requisitos do cliente para a equipe de desenvolvimento, assegurando uma compreensão precisa das necessidades do projeto.
