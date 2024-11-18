@@ -315,7 +315,8 @@ Por fim, no último sprint, dediquei-me à correção de bugs e à melhoria gera
 * MongoDB - Avançado - Consigo realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados não relacionais de forma autônoma.
 
 #### Soft Skills
-* Comunicação - Acredito que tenha sido muito importante ao me comunicar com a equipe sobre como seria feito o projeto, já que teriamos outra abordagem com o projeto, mas acredito tenha sido de extrema importancia opinar sobre tal abordagem e estar ativamente conectado com o grupo.
+* Responsabilidade - Por conta do grupo estar com somente 5 pessoas foi necessário uma responsabilidade maior de minha parte para realizar tarefas sozinho/com menos ajuda de outros integrantes.
+* Comunicação - Já que nosso grupo havia poucos participantes foi necessário da minha parte uma comunicação mais clara e coesa para que outros integrantes pudessem entender o que estava fazendo e quais problemas podia enfrentar.
 
 ### Em 2024-2
 O setor de marketing enfrenta desafios ao processar grandes volumes de dados, dificultando a análise de feedbacks e informações dispersas, como comentários e dados de vendas. A falta de ferramentas para identificar tendências e integrar dados compromete decisões rápidas e informadas, enquanto a análise manual é demorada e sujeita a erros.
